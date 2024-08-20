@@ -5,7 +5,6 @@ permalink: /midterm/
 date: TBD
 due_event: 
     type: due
-    date: TBD 23:59:59
     description: 'Midterm due'
 ---
 

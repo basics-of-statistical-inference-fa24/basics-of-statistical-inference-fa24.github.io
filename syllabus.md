@@ -18,15 +18,6 @@ Upon successful completion of this course, you should be able to:
 This course will be held synchronously and in-person. We encourage students to attend class and participate, but attendance is not required. All lectures and lab sessions will be recorded and available on the course Canvas site.
 
 Grades will be based on:
-* 
-
-## Homeworks [🔗](/homeworks/)
-
-
-## Midterm [🔗](/midterm)
-
-
-## Final [🔗](/final)
 
 
 
