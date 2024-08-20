@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 
+date: TBD
 description: 
 hide_from_announcments: true
 ---
